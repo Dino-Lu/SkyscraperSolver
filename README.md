@@ -10,7 +10,7 @@
 
 ## 🧩 Overview
 
-**Rush 01** is the second group project I completed during the 42 Piscine. My teammates [Mao](https://github.com/maozeitoun), Alex, and I earned a score of 95, and we're proud of it—this was arguably the most challenging of the three group projects.
+**Rush 01** is the second group project I completed during the 42 Piscine. My teammates [Mao](https://github.com/maozeitoun), [Alex](https://github.com/alexikonn), and I earned a score of 95, and we're proud of it—this was arguably the most challenging of the three group projects.
 
 > ⏱️ The project had to be completed in just 48 hours, making it feel like a mini-hackathon. Time pressure pushed us to collaborate efficiently, write clean code, and manage version control carefully.
 
